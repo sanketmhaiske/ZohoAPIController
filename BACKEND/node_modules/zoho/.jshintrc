@@ -1,0 +1,32 @@
+{
+  "node": true,
+  "asi" : true,
+  "curly": true,
+  "eqeqeq": true,
+  "esnext": true,
+  "eqnull": true,
+  "asi": true,
+  "predef": [],
+  "globalstrict": true,
+  "indent": 2,
+  "latedef": true,
+  "newcap": true,
+  "quotmark": "single",
+  "strict": true,
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "globals": {
+    "Promise": false,
+    "describe": false,
+    "it": false,
+    "before": false,
+    "beforeEach": false,
+    "after": false,
+    "afterEach": false
+  },
+  "maxparams": 5,
+  "maxdepth": 3,
+  "maxstatements": 10,
+  "maxcomplexity": 7
+}
